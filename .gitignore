@@ -1,5 +1,9 @@
 # Ignore Hugo resource files
 *.hugo*.lock
+*.git/*
+*.git
+.git
+.git/*
 resources/
 public/
 config/development/
